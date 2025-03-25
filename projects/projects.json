@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Precise knowledge tracing (PKT) model for Future Exercise Prediction Accuracy",
+    "category": "Learning Technologies",
+    "desc":"Knowledge tracing is a technique used in the field of educational data mining and intelligent tutoring systems to model and predict students' mastery of concepts or skills over time. The proposed work introduces Precise knowledge tracing (PKT) that contains two types of difference from exercise and from prior knowledge. The first type of difference is the exercise level difference which refers to difference among the exercises in term of their content difficulty and relationship to other exercises. The second type of difference is the learner level difference which refers to the difference among learners in term of their prior knowledge and learning abilities. Initially to update the learner’s current knowledge and next to predict the correctness of future exercise.Using deep learning method to define the recurrent neural network (RNN) is a type of neural network designed to handle sequential data by maintaining a hidden state that captures information about previous inputs in the sequence. PKT uses deep learning method of recurrent neural network (RNN) to model knowledge state (KS) and predicts the performance.",
+    "image": "master",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ef-NsnWD86vAkOQAmnN3uU9acQyM8x-P/view?usp=drive_link",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Enhancing data reliability in IoT through Cloud-assisted trust computing",
+    "category": "Cloud computing",
+    "desc":"A cloud-assisted reliable trust computing (CRTC) scheme for data collection in Internet of Things (IoT). The CRTC scheme mainly includes two parts: a reliable approach of obtaining the real data of intelligent sensing devices (ISDs) at a low cost and an effective method of trust computing to evaluate the trustworthiness of ISDs based on the data collected by unmanned aerial vehicles (UAVs). In the proposed method, ISDs fit the forwarding packets information to form inspection information with a small amount of data and then send it to inspection nodes, effectively reducing the cost of routing inspection information. Moreover, we optimize the path planning algorithm for UAVs to reduce flight distance and improve data collection efficiency. The proposed CRTC scheme can effectively identify trustworthy ISDs and improve data collection efficiency.",
+    "image":"iott",
+    "links": {
+      "view": "https://drive.google.com/file/d/1vd_29yCMK2YERFGkzWcO2DEBmCf_8ohc/view?usp=drive_link",
+      "code": "#"
+    }
+  }
+]
